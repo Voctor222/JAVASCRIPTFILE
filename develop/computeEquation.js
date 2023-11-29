@@ -1,3 +1,4 @@
+// functions
 const result = (a,b,c,d,e,f,g,h ) => {
     let l=a
     let m=b
@@ -19,3 +20,21 @@ const computeEqu=(a,b)=>{
     let two=b
 }
 console.log(a/b)
+
+
+let x=36+72+45
+let y=-25+50
+const Equation=(x,y)=>{
+    let he=x
+    let she=y
+}
+console.log(x/y)
+
+let f=-2+10+9-8-250-40
+let z=5-3-4-4
+const Question=(f,z)=>{
+    let g=f
+    let h=z
+}
+console.log(f/z)
+
