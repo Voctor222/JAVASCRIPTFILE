@@ -1,11 +1,33 @@
 // arrays
-const jsssubjects = [maths,english,CCA,CRS,basicscience,literature,igbo,french, basictechnology,agriculture]
-const sssubjects = [maths,english,biology,physics,chemistry,agriculture,animalhusbandary,economics,igbo]
+const jsssubjects = [
+    'maths',
+    'english',
+    "CCA",
+    "CRS",
+    "basicscience",
+    "igbo",
+    "french",
+    "basictechnology",
+    "agriculture"
+    ]
+const sssubjects = [
+"maths",
+"english",
+"biology",
+"physics",
+"chemistry",
+"agriculture",
+"animalhusbandary",
+"economics",
+"igbo"
+]
 
 // objects
-const Pen = {color:"blue",
-height:"16cm",
-product:"avanti"}
+const Pen = {
+    color:"blue",
+    height:"16cm",
+    product:"avanti"
+}
 
 const motorcycle = {
 name:"hunda",
